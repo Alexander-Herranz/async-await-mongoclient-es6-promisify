@@ -11,9 +11,9 @@ const mongoclient-es6-promisify = require ('mongoclient-es6-promisify')
 
 https://www.npmjs.com/package/async-await-mongoclient-es6-promisify
 
-# mongoClient-es6-promosify
+# mongoClient-es6-promisify
 
-mongoClient-es6-promosify is an open and clean ES6 class to connect with your
+mongoClient-es6-promisify is an open and clean ES6 class to connect with your
 mongo database, that you can easily use and even extend, to use with async/await
 features available natively in node v8.
 
