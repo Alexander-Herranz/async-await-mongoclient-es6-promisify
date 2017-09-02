@@ -2,11 +2,11 @@
 You can just install in your project with:
 
 ```sh
-$npm install mongoclient-es6-promisify --save
+$npm install async-await-mongoclient-es6-promisify --save
 ```
 and simply require it where you need it in your node js application:
 ```sh
-const mongoclient-es6-promisify = require ('mongoclient-es6-promisify')
+const async-await-mongoclient-es6-promisify = require ('async-await-mongoclient-es6-promisify')
 ```
 
 https://www.npmjs.com/package/async-await-mongoclient-es6-promisify
