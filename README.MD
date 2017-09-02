@@ -1,3 +1,16 @@
+### Getting started
+You can just install in your project with:
+
+```sh
+$npm install mongoclient-es6-promisify --save
+```
+and simply require it where you need it in your node js application:
+```sh
+const mongoclient-es6-promisify = require ('mongoclient-es6-promisify')
+```
+
+https://www.npmjs.com/package/async-await-mongoclient-es6-promisify
+
 # mongoClient-es6-promosify
 
 mongoClient-es6-promosify is an open and clean ES6 class to connect with your
@@ -30,17 +43,7 @@ Functions are pretty descriptive by their name.
     }
   ```
 
-### Use code examples
-You can just install in your project with:
-
-```sh
-$npm install mongoclient-es6-promisify --save
-```
-and simply require it where you need it in your node js application:
-```sh
-const mongoclient-es6-promisify = require ('mongoclient-es6-promisify')
-```
-
+### Test the module yourself
 In test/test.js you can see the basic use of the app. You can run this example with:
 ```sh
 $npm install

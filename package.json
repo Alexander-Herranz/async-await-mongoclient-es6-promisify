@@ -1,16 +1,37 @@
 {
   "name": "async-await-mongoclient-es6-promisify",
-  "version": "1.0.3",
-  "description": "es6-promisify based mongo client clean module, to execute different mongodb operations with async/await.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "author": "Alexander Herranz",
-  "license": "ISC",
+  "version": "1.0.5",
+  "description": "async/await based mongo DB client",
+  "main": "test.js",
   "dependencies": {
     "dotenv": "^4.0.0",
     "es6-promisify": "^5.0.0",
     "mongodb": "^2.2.31"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander-Herranz/async-await-mongoclient-es6-promisify.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "es6",
+    "promisify",
+    "mongo",
+    "db",
+    "node",
+    "js",
+    "client",
+    "module"
+  ],
+  "author": "Alexander Herranz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexander-Herranz/async-await-mongoclient-es6-promisify/issues"
+  },
+  "homepage": "https://github.com/Alexander-Herranz/async-await-mongoclient-es6-promisify#readme"
 }
