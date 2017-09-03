@@ -6,7 +6,9 @@ $npm install async-await-mongoclient-es6-promisify --save
 ```
 and simply require it where you need it in your node js application:
 ```sh
-const async-await-mongoclient-es6-promisify = require ('async-await-mongoclient-es6-promisify')
+const {DB} = require ('async-await-mongoclient-es6-promisify')
+const db = new Db("DATABASE_NAME")
+
 ```
 
 https://www.npmjs.com/package/async-await-mongoclient-es6-promisify
