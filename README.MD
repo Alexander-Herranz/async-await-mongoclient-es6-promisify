@@ -11,8 +11,12 @@ const db = new Db("DATABASE_NAME")
 db.getCollection('mycollectionName')
 
 ```
-
+Explore the code on Github:
+https://github.com/Alexander-Herranz/async-await-mongoclient-es6-promisify
+Use the library directly as npm package:
 https://www.npmjs.com/package/async-await-mongoclient-es6-promisify
+
+
 
 # mongoClient-es6-promisify
 
