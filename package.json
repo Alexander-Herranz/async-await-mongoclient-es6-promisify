@@ -1,6 +1,6 @@
 {
   "name": "async-await-mongoclient-es6-promisify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "async/await based mongo DB client",
   "main": "test.js",
   "dependencies": {

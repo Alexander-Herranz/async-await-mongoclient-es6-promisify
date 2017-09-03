@@ -8,6 +8,7 @@ and simply require it where you need it in your node js application:
 ```sh
 const {DB} = require ('async-await-mongoclient-es6-promisify')
 const db = new Db("DATABASE_NAME")
+db.getCollection('mycollectionName')
 
 ```
 
